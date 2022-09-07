@@ -1,0 +1,83 @@
+@import '../../../Assets/base.scss';
+
+.container{
+    background-color: $blue;
+    width: 23%;
+    height: fit-content;
+    color: $white;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 33px 40px;
+    border-radius: 5px;
+
+    p{
+        font-style: italic;
+    }
+
+    hr{
+        width: 75%;
+    }
+
+    .priceFilter{
+        margin-top: 10%;
+        margin-bottom: 10%;
+
+        span{
+            background-color: $white;
+            color: $blue;
+            margin: 20px;
+            padding: 5px;
+            border-radius: 5px;
+        }
+        .sliderValue{
+            // position: relative;
+            // padding: 5px;
+            // top: 0;
+            // left: 30%;
+            // width: fit-content;
+            // height: fit-content;
+            // text-align: center;
+            // background: $red;
+            // z-index: 2;
+            // transform: translateX(-50%);
+
+            &::after{
+                content: "";
+                position: relative;
+                padding: 5px;
+                top: 0;
+                left: 30%;
+                width: fit-content;
+                height: fit-content;
+                text-align: center;
+                background: $red;
+                z-index: -1;
+                transform: translateX(-50%) rotate(45deg);
+                border-top-left-radius: 50%;
+                border-top-right-radius: 50%;
+                border-bottom-left-radius: 50%;
+                border: 2px solid $white;
+            }
+        }
+
+        .field{
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: space-evenly;
+            height: 100%;
+            width: 100%;
+
+            .valueLeft, .valueRight{
+                margin: 1%;
+            }
+        }
+    }
+
+    label{
+        margin-top: 50px;
+    }
+}

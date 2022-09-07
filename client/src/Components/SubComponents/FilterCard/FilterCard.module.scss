@@ -1,0 +1,28 @@
+@import '../../../Assets/base.scss';
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+    height: 30vh;
+    border-radius: 5px;
+    background-color: red;
+    background-image: url('../../../Assets/img/card-item.jpg');
+    background-size: cover;
+    transition: 0.2 ease-in-out;
+
+
+    h4{
+        color: $white;
+        font-weight: bold;
+    }
+
+    &:hover{
+        transform: scale(1.05);
+        color: $blue;
+        transition: 0.5 ease-in-out;
+        cursor: pointer;
+    }
+}

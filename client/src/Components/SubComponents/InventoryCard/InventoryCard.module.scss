@@ -1,0 +1,45 @@
+@import '../../../Assets/base.scss';
+
+.container{
+    width: 100%;
+    background-color: $blue2;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 10px;
+
+    .cardHeading{
+        color: $white;
+    }
+
+    .update{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        background-color: white;
+        border-radius: 5px;
+        width: fit-content;
+        text-align: center;
+        color: $blue;
+        margin-right: 10px;
+    }
+
+    .delete{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        background-color: transparent;
+        border: 1px solid $white;
+        border-radius: 5px;
+        width: fit-content;
+        text-align: center;
+        color: $white;
+        transition: 0.2s ease-in-out;
+
+        &:hover{
+            background-color: $red;
+            border: 1px solid $red;
+        }
+    }
+}

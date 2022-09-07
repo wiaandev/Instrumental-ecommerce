@@ -1,0 +1,33 @@
+@import '../../Assets/base.scss';
+
+
+
+.dots{
+    display: flex;
+    gap: 10px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+
+
+    .selected{
+        height: 15px;
+        width: 15px;
+        border-radius: 50%;
+        background-color: $white;
+    }
+
+    & > div{
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        background-color: $aqua;
+        
+        &:hover{
+            cursor: pointer;
+            background-color: $blue3;
+            transition: 0.2s ease-in-out;
+        }
+    }
+
+}

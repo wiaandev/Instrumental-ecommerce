@@ -1,0 +1,16 @@
+@import './../Assets/base.scss';
+
+.container{
+    flex: 1;
+    h2{
+        color: $blue;
+    }
+    .pageContent{
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+        justify-content: center;
+        flex: 1;
+        height: 85vh;
+    }
+}

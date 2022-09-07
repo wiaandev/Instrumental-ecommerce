@@ -1,0 +1,56 @@
+@import '../../../Assets/base.scss';
+
+.nav{
+    height: 15vh;
+    background: linear-gradient(270deg, #1D3E53 -11.8%, #254B62 125.29%);
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    li{
+        color: $aqua;
+
+        &:hover{
+            color: $white;
+            cursor: pointer;
+        }
+    }
+
+    .search{
+        width: 20%;
+    }
+
+    .cart:hover{
+        cursor: pointer;
+    }
+
+    .flexCol{
+        display: flex;
+        flex-flow: column;
+        justify-content: center;
+        align-items: center;
+        width: 8%;
+        margin-right: 10%;
+    }
+
+    .hide{
+        display: none;
+    }
+
+    .profile{
+        display: flex;
+        flex-flow: column;
+        justify-content: center;
+        align-items: center;
+
+        .logOut{
+            padding: 5px;
+            background-color: $white;
+            color: #254B62;
+            border-radius: 5px;
+            font-size: 14px;
+            margin: 5px;
+        }
+    }
+}

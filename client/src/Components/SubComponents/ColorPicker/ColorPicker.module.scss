@@ -1,0 +1,16 @@
+@import '../../../Assets/base.scss';
+
+.container{
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    background-color: green;
+}
+
+.selected{
+    border: 3px solid $blue;
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    background-color: green;
+}

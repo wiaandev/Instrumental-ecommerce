@@ -1,0 +1,41 @@
+@import '../../../Assets/base.scss';
+
+.container{
+    width: 100%;
+    background-color: transparent;
+    border: 1px solid $blue;
+    border-radius: 20px;
+    color: $blue;
+    padding: 10px;
+    transition: 0.2s ease-in-out;
+    margin-right: 20px;
+    text-align: center;
+
+    .pBlue{
+        color: $blue;
+    }
+
+    &:hover{
+        cursor: pointer;
+    }
+}
+
+.selected{
+    width: 100%;
+    background-color: $blue;
+    border: 1px solid $blue;
+    border-radius: 20px;
+    color: $white;
+    padding: 10px;
+    transition: 0.2s ease-in-out;
+    margin-right: 20px;
+    text-align: center;
+
+    .pBlue{
+        color: $white;
+    }
+
+    &:hover{
+        cursor: pointer;
+    }
+}

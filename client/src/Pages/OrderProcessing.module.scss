@@ -1,0 +1,77 @@
+@import './../Assets/base.scss';
+
+.container{
+    display: flex;
+    flex-flow: column;
+    width: 100%;
+    height: 100vh;
+    flex: 1;
+    .pageContent{
+        display: flex;
+        flex: 1;
+
+        .left{
+            display: flex;
+            flex-flow: column;
+            padding: 50px;
+            background-color: $aqua;
+            font-weight: $font-weight-thin;
+            color: $blue;
+            width: 15%;
+
+            .leftHeading{
+                font-weight: $font-weight-thin;
+            }
+
+            .ordersSummaryGroup{
+                display: flex;
+                flex-flow: column;
+                justify-content: space-evenly;
+                height: 100%;
+
+                .itemDesc{
+                    font-weight: $font-weight-thin;
+                }
+            }
+        }
+
+        .right{
+            display: flex;
+            flex-direction: column;
+            padding: 50px;
+            width: 100%;
+            color: $blue;
+
+            .heading{
+                width: 100%;
+            }
+
+            .flexCon{
+                display: grid;
+                grid-template-columns: 27% 27% 27% ;
+                justify-content: space-evenly;
+                align-items: center;
+            }
+
+            .table{
+                width: 100%;
+                text-align: left;
+                padding: 0;
+
+                th{
+                    text-align: left;
+                }
+
+                tr{
+                    text-align: left;
+                    padding: 0;
+                }
+
+                td{
+                    padding: 20px;
+                    text-align: left;
+                }
+            }
+        }
+    }
+}

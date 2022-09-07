@@ -1,0 +1,56 @@
+@import '../Assets/base.scss';
+
+.page{
+    flex: 1;
+    background-color: $blue2;
+    display: flex;
+    flex-flow: column;
+    height: 100vh;
+    overflow: hidden;
+    width: 100%;
+
+    .cardCon{
+        width: 100%;
+        display: flex;
+        overflow: hidden;
+
+        .chevron{
+            // overflow: scroll;
+            position: sticky;
+            z-index: 1;
+            left: 0;
+            top: 75%;
+        }
+
+        .chevronRight{
+            position: sticky;
+            right:0;
+        }
+    }
+    .lowStockCon{
+        width: 100%;
+        display: flex;
+        flex-flow: column;
+        justify-content: center;
+        align-items: center;
+        overflow-x: hidden;
+        .heading{
+            color: $white;
+            margin: 20px 0px;
+        }
+    }
+
+    .bottomSection{
+        margin: 20px;
+        display: flex;
+        flex-flow: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        .bottomSection_heading{
+            color: $white;
+            font-weight: $font-weight-thin;
+
+        }
+    }
+}

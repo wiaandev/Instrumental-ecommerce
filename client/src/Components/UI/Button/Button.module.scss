@@ -1,0 +1,129 @@
+@import '../../../Assets/base.scss';
+
+
+// Login Input Styling
+.primary{
+    background-color: $white;
+    font-size: $headingp;
+    color: $blue;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    width: 100%;
+    transition: 0.2s ease-in-out;
+}
+.primary::placeholder{
+    color: $blue3;
+    font-style: italic;
+}
+
+.primary:active{
+    background-color: $aqua;
+    outline: none;
+}
+
+.primary:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.secondary{
+    padding: 5%;
+    color: $white;
+    border: none;
+    font-size: $heading5;
+    background-color: $blue;
+    border-radius: 50px;
+    width: 100%;
+    transition: 0.2s ease-in-out;
+    height: 50px;
+}
+
+.secondary:hover{
+    cursor: pointer;
+    background-color: $aqua;
+}
+
+.loginPageBtn{
+    background-color: $white;
+    font-size: $heading4;
+    color: $blue;
+    padding: 10px;
+    height: fit-content;
+    border-radius: 30px;
+    border: none;
+    width: 40%;
+    transition: 0.2s ease-in-out;
+}
+
+.priceFilterBtn{
+    width: 50%;
+    font-size: 14px;
+    background-color: $white;
+    color: $blue;
+    outline: none;
+    border: none;
+    padding:5%;
+    border-radius: 25px;
+    transition: 0.1s ease-in-out;
+
+    &:hover{
+        cursor: pointer;
+        background-color: $aqua;
+    }
+}
+
+.addToCart{
+    width: 25%;
+    background-color: $blue;
+    border: none;
+    padding: 2%;
+    border-radius: 30px;
+    color: $white;
+    transition: 0.2s ease-in-out;
+    margin: 2% 0%;
+
+    &:hover{
+        background-color: $aqua;
+    }
+}
+
+.tersiary{
+    background-color: transparent;
+    border: none;
+
+    &:hover{
+        text-decoration: underline;
+        cursor: pointer;
+    }
+}
+
+.browseNow{
+    background-color: $white;
+    font-size: $headingp;
+    color: $blue;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    width: fit-content;
+    transition: 0.2s ease-in-out;
+}
+.browseNow::placeholder{
+    color: $blue3;
+    font-style: italic;
+}
+
+.browseNow:active{
+    background-color: $aqua;
+    outline: none;
+}
+
+.browseNow:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+
+
+
+

@@ -1,0 +1,356 @@
+[
+  {
+    "brand": "Gibson",
+    "model": "ES-335",
+    "type": "Electric",
+    "price": 57.606,
+    "inStock": 5,
+    "desc": "The Gibson ES-335 DOT is the cornerstone of the Gibson ES line-up. From its inaugural appearance in 1958, the Gibson ES-335 set an unmatched standard. The pearloid dot inlay rosewood fingerboard on a hand-rolled Rounded 'C' mahogany neck remind players where it all started. Gibson's Calibrated T-Type humbucking pickups are paired with our hand-wired control assembly. The result is that versatile Gibson ES tone that players have craved for over 60 years. Tuning stability and precise intonation are provided by the Vintage Deluxe tuners with Keystone buttons, paired with light weight Aluminum ABR-1 bridge and Stop Bar tailpiece, anchored by steel thumb-wheels and tailpiece studs",
+    "imgUrl": [
+        "https://static.gibson.com/product-images/USA/USAVLJ627/Sixties Cherry/front-300_600.png",
+        "https://static.gibson.com/product-images/USA/USAVLJ627/Sixties%20Cherry/neck-side-500_500.png",
+        "https://static.gibson.com/product-images/USA/USAVLJ627/Sixties%20Cherry/back-neck-500_500.png"
+    ],
+    "availStock": [
+      {
+        "neckLength": 628.65,
+        "qty": 14,
+        "handedness": "left",
+        "variations": [{ "red": 4, "black": 4, "brown": 6 }]
+      },
+      {
+        "neckLength": 610,
+        "qty": 16,
+        "handedness": "right",
+        "variations": [{ "red": 5, "black": 5, "brown": 6 }]
+      }
+    ]
+  },
+  {
+    "brand": "Gibson",
+    "model": "SG Standard '61 Maestro Vibrola",
+    "type": "Electric",
+    "price": 37.000,
+    "inStock": 14,
+    "desc": "The SG™ Standard '61 Maestro™ Vibrola™ returns to the classic design that made it relevant, played, and loved -- shaping sound across generations and genres of music. As the name implies, the Gibson SG Standard '61 Maestro Vibrola adds vibrato capability to the SG Standard '61. The Maestro Vibrola offers smooth vibrato effects and the classic styling of the Lyre engraving on the tailpiece cover. Standard features include a SlimTaper™ mahogany neck and a bound rosewood fingerboard.",
+    "imgUrl": [
+        "https://images.ctfassets.net/m8onsx4mm13s/5Eqnp3MyHuG9ekYkTlcxsy/2225b6fff165b8a8c393bc3849422ef9/__static.gibson.com_product-images_USA_USAD9T241_Vintage_Cherry_SG61V19VENH1_1.jpg?h=900",
+        "https://images.ctfassets.net/m8onsx4mm13s/2sHy9FukKvjrLlqIHA8uHi/009cdd2dcd5aa59a1791e8df13497259/__static.gibson.com_product-images_USA_USAD9T241_Vintage_Cherry_SG61V19VENH1_2.jpg?h=900",
+        "https://images.ctfassets.net/m8onsx4mm13s/0u2wlMCOR6Ku9bgwfrC63l/b34d2fed73fb12b1d38d1d8190f802c9/__static.gibson.com_product-images_USA_USAD9T241_Vintage_Cherry_hardware-500_500.png?h=900"
+    ],
+    "availStock": [
+      {
+        "neckLength": 628,
+        "qty": 6,
+        "handedness": "left",
+        "variations": [{ "brown": 3, "white": 3 }]
+      },
+      {
+        "neckLength": 411,
+        "qty": 8,
+        "handedness": "right",
+        "variations": [{ "brown": 4, "white": 4 }]
+      }
+    ]
+  },
+  {
+    "brand": "Gibson",
+    "model": "Les Paul 70s Deluxe",
+    "type": "Electric",
+    "price": 26.995,
+    "discountPrice": 20.221,
+    "inStock": 10,
+    "desc": "First released in 1969, the Deluxe saw the introduction of the mini humbucker™ to the Les Paul lineup. Mini humbuckers retain the hum-free performance of their full-sized cousins but with a somewhat clearer and brighter tonality. The new Deluxe has features that were inspired by those early models from the 1970s, with a non-weight relief mahogany body and bound maple top, a bound mahogany neck with a Rounded C profile, vintage-style Keystone tuners, Graph Tech® nut, and a traditional Les Paul control layout with 2 Volume and 2 Tone controls wired with Orange Drop® capacitors",
+    "imgUrl":[
+       "https://images.ctfassets.net/m8onsx4mm13s/3KMv9awGsI008N7wMewZPg/aeec9a3919b378e2e630436ca3022929/__static.gibson.com_product-images_USA_USAMRP793_70s_Cherry_Sunburst_LPDX007CCH1_front.jpg?h=900",
+        "https://images.ctfassets.net/m8onsx4mm13s/2RpiungUZdHAiRtMP9FObH/d8654c51cced5e2256eb717ada7ba046/__static.gibson.com_product-images_USA_USAMRP793_70s_Cherry_Sunburst_LPDX007CCH1_back.jpg?h=900",
+        "//images.ctfassets.net/m8onsx4mm13s/0Sn8SnBxm7f0GMOdZAXvzI/88ba316815673002114293c4262d3cc0/__static.gibson.com_product-images_USA_USAMRP793_70s_Cherry_Sunburst_hardware-500_500.png?h=900"
+    ],
+    "availStock": [
+      {
+        "neckLength": 628.65,
+        "qty": 3,
+        "handedness": "left",
+        "variations": [{ "black": 3 }]
+      },
+      {
+        "neckLength": 610,
+        "qty": 7,
+        "handedness": "right",
+        "variations": [{ "black": 7 }]
+      }
+    ]
+  },
+  {
+    "brand": "Gibson",
+    "model": "50s J-45 Original",
+    "type": "Acoustic",
+    "price": 6395,
+    "discountPrice": 5370,
+    "inStock": 25,
+    "desc": "The new 50s J-45 Original model flaunts vintage-inspired detailing from the golden era of Gibson. Classic “Workhorse” materials include a Sitka Spruce top and Select Mahogany back and sides. The multi-ply top and single-ply back binding are subtly antiqued making each instrument look just like a seasoned Gibson acoustic. Appointed with cream button tuners, a 50s-era tortoise pick guard, and upgraded with an LR Baggs® VTC pickup for the best and most natural-sounding tone when amplified.",
+    "imgUrl":[
+        "https://images.ctfassets.net/m8onsx4mm13s/6wT73EncEt6Hsb3uvS3iK4/5a5cdf7196afc241f5fd79e20d02e18b/__static.gibson.com_product-images_Acoustic_ACCSRX331_Ebony_OCRS4550EB_front.jpg?h=900",
+        "//images.ctfassets.net/m8onsx4mm13s/77OomnmtSgqhjKoueVuE6R/7c31949cdf2817795ef9bc81feb83a14/__static.gibson.com_product-images_Acoustic_ACCSRX331_Ebony_OCRS4550EB_back.jpg?h=900",
+        "//images.ctfassets.net/m8onsx4mm13s/1dAD1GVlcLSNJ1w6u1nznj/79a6e187086fd410896e7c0ad1110daf/__static.gibson.com_product-images_Acoustic_ACCSRX331_Ebony_hardware-500_500.png?h=900"
+    ],
+    "availStock": [
+      {
+        "neckLength": 628,
+        "qty": 14,
+        "handedness": "left",
+        "variations": [{ "amber": 7, "black": 7 }]
+      },
+      {
+        "neckLength": 628,
+        "qty": 14,
+        "handedness": "right",
+        "variations": [{ "amber": 7, "black": 7 }]
+      }
+    ]
+  },
+  {
+    "brand": "Gibson",
+    "model": "Southern Jumbo Original",
+    "type": "Acoustic",
+    "price": 34395,
+    "discountPrice": 28995,
+    "inStock": 5,
+    "desc": "The Southern Jumbo is renowned for its proficiency to belt out country rhythms or acoustic blues leads. Original examples are among the most prized war-era flat-tops in today’s vintage market. This new Southern Jumbo Original picks up where those classic models left off. Classic Southern Jumbo detailing includes parallelogram inlays, double antiqued multi-ply top and back binding, and nickel open back tuners.",
+    "imgUrl":[
+        "https://images.ctfassets.net/m8onsx4mm13s/7APPdFiBTWgrsqQnlflyd7/a6a5b1511e4c4c92e6b28c8ba1d267fc/__static.gibson.com_product-images_Acoustic_ACCYBI462_Vintage_Sunburst_OCRSSJVS_front.jpg?h=900",
+        "//images.ctfassets.net/m8onsx4mm13s/2QM536LEeTddjd9jG96m3W/ffec6407e3bc3cb2b096628568e26b02/__static.gibson.com_product-images_Acoustic_ACCYBI462_Vintage_Sunburst_OCRSSJVS_back.jpg?h=900",
+        "//images.ctfassets.net/m8onsx4mm13s/1QWjJ1GHux5tvyhX0j4l7D/303d1bf91cf376cf775e5944bfcd1e79/__static.gibson.com_product-images_Acoustic_ACCYBI462_Vintage_Sunburst_hardware-500_500.png?h=900"
+    ],
+    "availStock": [
+      {
+        "neckLength": 864,
+        "qty": 2,
+        "handedness": "left",
+        "variations": [{ "red": 1, "black": 1, "brown": 0 }]
+      },
+      {
+        "neckLength": 610,
+        "qty": 3,
+        "handedness": "right",
+        "variations": [{ "red": 1, "black": 1, "brown": 1 }]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "brand": "Gibson",
+    "model": "Flying V",
+    "type": "Electric",
+    "price": 23195,
+    "inStock": 25,
+    "desc": "Introduced in 1958 and only made in limited quantities, the Gibson Flying V™ has taken flight over the years along with legions of followers. This Flying V carries heritage to new heights. The Antique Natural finish, mahogany body, and SlimTaper™ neck with rosewood fingerboard provide classic looks, sound, and playability. A special set of calibrated BurstBucker™ 2 (neck) and BurstBucker 3 (bridge) pickups provide that perfect mix of volume, tone, and power.",
+    "imgUrl": [
+        "//images.ctfassets.net/m8onsx4mm13s/0QyBbh1XJYBpI9Vwt1q4hW/7957903ad2bfa304142a28da04d8e690/__static.gibson.com_product-images_USA_USAM1U838_Antique_Natural_DSV19ANCH1_1.jpg?h=300",
+        "//images.ctfassets.net/m8onsx4mm13s/77IXSn7L4TbpKfiT36vyCa/5400513be5db015446aa41f623c90696/__static.gibson.com_product-images_USA_USAM1U838_Antique_Natural_DSV19ANCH1_2.jpg?h=900",
+        "//images.ctfassets.net/m8onsx4mm13s/0PM8bLHNSGykFHEBtC5C3a/045492f5ea301c30920458b7307095f3/__static.gibson.com_product-images_USA_USAM1U838_Antique_Natural_hardware-500_500.png?h=900"
+    ],
+    "availStock": [
+      {
+        "neckLength": 628.65,
+        "qty": 14,
+        "handedness": "left",
+        "variations": [{ "red": 4, "black": 4, "brown": 6 }]
+      },
+      {
+        "neckLength": 610,
+        "qty": 16,
+        "handedness": "right",
+        "variations": [{ "red": 5, "black": 5, "brown": 6 }]
+      }
+    ]
+  },
+  {
+      "brand": "Alvarez",
+      "model": "AD60CE",
+      "type": "Acoustic",
+      "price": 12347,
+      "inStock": 12,
+      "desc": "Back in 2010, the AD60 was the model which our then new design team first focused on. It became the benchmark model, a reference in which other brand's and our previous models were measured. The goal and therefore the whole approach of the team was to simply make the best performing entry level guitar available. In tandem with developing our Artist Series, we were also developing bracing systems such as FST2 at the Yairi workshops, and bracing systems we cut there by hand were reproduced by machine for Artist Series in order to create “our sound” throughout our brand",
+      "imgUrl": [
+        "https://alvarezguitars.com/wp-content/uploads/2014/01/AD60CE-Front-3_4-1.jpg",
+        "https://alvarezguitars.com/wp-content/uploads/2014/01/AD60CE-Front-1.jpg",
+        "https://alvarezguitars.com/wp-content/uploads/2014/01/AD60CE-Back-3_4-1.jpg"
+    ],
+    "availStock": [
+      {
+        "neckLength": 648,
+        "qty": 3,
+        "handedness": "left",
+        "variations": [{ "ivory": 1, "brown": 2 }]
+      },
+      {
+        "neckLength": 648,
+        "qty": 5,
+        "handedness": "right",
+        "variations": [{ "ivory": 2, "brown": 3 }]
+      }
+    ]
+  },
+
+  {
+      "id": 7,
+      "brand": "Gretsch",
+      "model": "G9500 Jim Dandy",
+      "type": "Acoustic",
+      "price": 6595,
+      "discountPrice": 4615,
+      "inStock": 5,
+      "desc": "Faithful to the Gretsch “Rex” parlor guitars of the 1930s, ’40s and ’50s, the all-new G9500 Jim Dandy Flat Top parlor-style model embodies everything that was great about everyone’s first guitar. Everything and then some, that is, because the G9500 is crafted with select guitar woods and is fully lined and braced for warm and pleasing tone, with a 24″ scale for endless hours of playing comfort.",
+      "imgUrl": [
+        "https://bothners.co.za/wp-content/uploads/2019/03/Gretsch-G9500-JIM-DANDY-FLAT-TOP-2SB-100x100.jpg",
+        "https://bothners.co.za/wp-content/uploads/2019/02/JD1-100x100.png",
+        "https://bothners.co.za/wp-content/uploads/2019/02/JD2-100x100.png"
+    ],
+    "availStock": [
+      {
+        "neckLength": 610,
+        "qty": 12,
+        "handedness": "left",
+        "variations": [{ "red": 4, "black": 4, "brown": 4 }]
+      },
+      {
+        "neckLength": 610,
+        "qty": 13,
+        "handedness": "right",
+        "variations": [{ "red": 3, "black": 1, "brown": 9 }]
+      }
+    ]
+  },
+
+  {
+      "id": 8,
+      "brand": "Cort",
+      "model": "CJ Retro Jumbo",
+      "type": "Acoustic-Electric",
+      "price": 6995,
+      "discountPrice": 4825,
+      "inStock": 17,
+      "desc": "The CJ-Retro is a Jumbo-sized acoustic-electric with a huge sound and a cool retro look. Featuring the classic jumbo body with Spruce top and Mahogany back and sides, Fishman electronics with magnetic humbucker and top-mounted controls, and tasteful retro appointments, the CJ-Retro is the perfect acoustic-electric for musicians looking for a big acoustic sound and a snazzy look.",
+      "imgUrl": [
+        "https://www.cortguitars.com/_DATA/item/1269/CJRetroVSMNewfullshot.png",
+        "https://www.cortguitars.com/_DATA/item/1269/thumb-CJRetroVSMDetails2_420x420.jpg",
+        "https://www.cortguitars.com/_DATA/item/1269/thumb-CJRetroVSMDetails1_420x420.jpg"
+    ],
+    "availStock": [
+      {
+        "neckLength": 648,
+        "qty": 7,
+        "handedness": "left",
+        "variations": [{ "amber": 7 }]
+      },
+      {
+        "neckLength": 648,
+        "qty": 10,
+        "handedness": "right",
+        "variations": [{ "amber": 10 }]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "brand": "Caraya",
+    "model": "F640CE",
+    "type": "Acoustic-Electric",
+    "price": 2595,
+    "discountPrice": 1795,
+    "inStock": 30,
+    "desc": "The Caraya F640ce is a traditional dreadnaught body shape with a spruce top, producing fat, warm low end and crisp high end response. An Awesome option for anybody starting to play the acoustic guitar!",
+    "imgUrl":[
+        "https://bothners.co.za/wp-content/uploads/2018/12/Caraya-F640CE-Acoustic-Electric-Guitar-Body.jpg",
+        "https://bothners.co.za/wp-content/uploads/2018/12/0006573_caraya-f640ce-acoustic-electric-guitar-100x100.jpeg"
+    ],
+    "availStock": [
+      {
+        "neckLength": 628,
+        "qty": 14,
+        "handedness": "left",
+        "variations": [{ "black": 10, "brown": 4 }]
+      },
+      {
+        "neckLength": 650,
+        "qty": 16,
+        "handedness": "right",
+        "variations": [{ "black": 6, "brown": 10 }]
+      }
+    ]
+  },
+  {
+    "brand": "Fender",
+    "model": "American Performer Stratocaster",
+    "type": "Electric",
+    "price": 31600,
+    "inStock": 15,
+    "desc": "A modern expression of the solidbody electric guitar that started it all, Fender’s American Performer Stratocaster delivers the latest in US-made quality and value. The American Performer Stratocaster boasts a massive tonal range. A trio of Fender Yosemite single-coil pickups — with flat-staggered pole pieces to increase output — serve up classic Strat spank and sparkle, infused with gobs of sustain for soloing. A push-pull tone knob lets you add the neck pickup to any position, opening up a huge, extended tonal range. The second tone pot engages Fender’s Greasebucket master tone circuit, which rolls off highs without reducing gain. Not to be overshadowed by its innovative electronics, the American Performer Stratocaster, naturally, features the outstanding comfort and playability you expect from a Fender Strat.",
+    "imgUrl":[
+        "https://www.fmicassets.com/Damroot/ThumbnailJpg/10001/0114910342_gtr_frt_001_rr.jpg",
+        "https://www.fmicassets.com/Damroot/ZoomJpg/10001/0114910342_gtr_back_001_rl.jpg",
+        "https://www.fmicassets.com/Damroot/ThumbnailJpg/10001/0114910342_gtr_hdstckfrt_001_nr.jpg"
+    ],
+    "availStock": [
+      {
+        "neckLength": 623,
+        "qty": 7,
+        "handedness": "left",
+        "variations": [{ "white": 4, "brown": 3 }]
+      },
+      {
+        "neckLength": 321,
+        "qty": 8,
+        "handedness": "right",
+        "variations": [{ "black": 6, "brown": 10 }]
+      }
+    ]
+  },
+  {
+    "brand": "Gibson",
+    "model": "Les Paul Standard 50's",
+    "type": "Electric",
+    "price": 38300,
+    "inStock": 8,
+    "desc": "A modern expression of the solidbody electric guitar that started it all, Fender’s American Performer Stratocaster delivers the latest in US-made quality and value. The American Performer Stratocaster boasts a massive tonal range. A trio of Fender Yosemite single-coil pickups — with flat-staggered pole pieces to increase output — serve up classic Strat spank and sparkle, infused with gobs of sustain for soloing. A push-pull tone knob lets you add the neck pickup to any position, opening up a huge, extended tonal range. The second tone pot engages Fender’s Greasebucket master tone circuit, which rolls off highs without reducing gain. Not to be overshadowed by its innovative electronics, the American Performer Stratocaster, naturally, features the outstanding comfort and playability you expect from a Fender Strat.",
+    "imgUrl":[
+        "https://images.ctfassets.net/m8onsx4mm13s/11yLD2nnJYanRYcEHIvbu8/d7af425bee99e2bf7b9a40b747d3818f/__static.gibson.com_product-images_USA_USAUBC849_Heritage_Cherry_Sunburst_LPS519HSNH1_1.jpg?h=900",
+        "https://images.ctfassets.net/m8onsx4mm13s/7f4Ps4PVejSlsKj7HG9VJx/2d13a198d76e41c4f93643785dd17486/__static.gibson.com_product-images_USA_USAUBC849_Heritage_Cherry_Sunburst_LPS519HSNH1_2.jpg?h=900",
+        "https://images.ctfassets.net/m8onsx4mm13s/2bgXkcWszKl132vqwiWLjy/3d10bef2d131e23b781836662d0b7e2a/__static.gibson.com_product-images_USA_USAUBC849_Heritage_Cherry_Sunburst_LPS519HSNH1_4.jpg?h=900"
+    ],
+    "availStock": [
+      {
+        "neckLength": 623,
+        "qty": 4,
+        "handedness": "left",
+        "variations": [{ "white": 4, "brown": 3 }]
+      },
+      {
+        "neckLength": 321,
+        "qty": 4,
+        "handedness": "right",
+        "variations": [{ "black": 6, "brown": 10 }]
+      }
+    ]
+  },
+  {
+    "brand": "Gibson",
+    "model": "Les Paul Standard 50's",
+    "type": "Electric",
+    "price": 38300,
+    "inStock": 8,
+    "desc": "A modern expression of the solidbody electric guitar that started it all, Fender’s American Performer Stratocaster delivers the latest in US-made quality and value. The American Performer Stratocaster boasts a massive tonal range. A trio of Fender Yosemite single-coil pickups — with flat-staggered pole pieces to increase output — serve up classic Strat spank and sparkle, infused with gobs of sustain for soloing. A push-pull tone knob lets you add the neck pickup to any position, opening up a huge, extended tonal range. The second tone pot engages Fender’s Greasebucket master tone circuit, which rolls off highs without reducing gain. Not to be overshadowed by its innovative electronics, the American Performer Stratocaster, naturally, features the outstanding comfort and playability you expect from a Fender Strat.",
+    "imgUrl":[
+        "https://images.ctfassets.net/m8onsx4mm13s/11yLD2nnJYanRYcEHIvbu8/d7af425bee99e2bf7b9a40b747d3818f/__static.gibson.com_product-images_USA_USAUBC849_Heritage_Cherry_Sunburst_LPS519HSNH1_1.jpg?h=900",
+        "https://images.ctfassets.net/m8onsx4mm13s/7f4Ps4PVejSlsKj7HG9VJx/2d13a198d76e41c4f93643785dd17486/__static.gibson.com_product-images_USA_USAUBC849_Heritage_Cherry_Sunburst_LPS519HSNH1_2.jpg?h=900",
+        "https://images.ctfassets.net/m8onsx4mm13s/2bgXkcWszKl132vqwiWLjy/3d10bef2d131e23b781836662d0b7e2a/__static.gibson.com_product-images_USA_USAUBC849_Heritage_Cherry_Sunburst_LPS519HSNH1_4.jpg?h=900"
+    ],
+    "availStock": {
+      "neckLength": 863,
+      "handedness": "left",
+      "colors": ["black", "white", "ivory"] 
+    }
+  }
+
+]

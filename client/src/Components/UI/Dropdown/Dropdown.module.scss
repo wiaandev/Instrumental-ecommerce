@@ -1,0 +1,25 @@
+@import '../../../Assets/base.scss';
+
+.container{
+    width: 100%;
+
+    .dropdown{
+        background-color: transparent;
+        width: 100%;
+        padding: 3%;
+        color: $white;
+        border: 1px solid $white;
+
+        &:hover{
+            cursor: pointer;
+        }
+
+        &:focus, &:visited{
+            outline: none;
+        }
+
+        option{
+            color: $blue;
+        }
+    }
+}

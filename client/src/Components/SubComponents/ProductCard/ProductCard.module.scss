@@ -1,0 +1,59 @@
+@import '../../../Assets/base.scss';
+
+.container{
+    display: flex;
+    flex-flow: column;
+    width: 100%;
+    height: fit-content;
+    background-size: cover;
+    transition: 0.2s;
+    margin-top: 20%;
+    padding: 20px;
+    border-radius: 20px;
+    // position: relative;
+
+    &:hover{
+        box-shadow:2px 3.4px 2.7px rgba(0, 0, 0, 0.025),
+        5px 8.7px 6.9px rgba(0, 0, 0, 0.035),
+        10.1px 17.7px 14.2px rgba(0, 0, 0, 0.045),
+        20.8px 36.5px 29.2px rgba(0, 0, 0, 0.055),
+        57px 100px 80px rgba(0, 0, 0, 0.08);
+        z-index: 999;
+    }
+
+    img{
+        width: 100%;
+        height: 38.4%;
+        max-height: 450px;
+        object-fit: scale-down;
+    }
+
+    .descContainer{
+        display: flex;
+        flex-flow: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding: 5%;
+        font-weight: $font-weight-thin;
+
+        h5{
+            color: $blue;
+        }
+    }
+
+    p{
+        color: $blue;
+        font-weight: $font-weight-bold;
+    }
+
+    .prevPrice{
+        text-decoration: line-through;
+        opacity: 0.5;
+        color: $blue;
+    }
+
+    .discountPrice{
+        color: $blue;
+    }
+}

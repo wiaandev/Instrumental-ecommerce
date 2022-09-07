@@ -1,0 +1,75 @@
+$heading1: 72px;
+$heading2: 57px;
+$heading3: 36px;
+$heading4: 24px;
+$heading5: 16px;
+$headingp: 14px;
+
+// Colors
+$blue: #1D3E53;
+$blue2: #254B62;
+$blue3: #476D7C;
+$aqua: #77ABB7;
+$white: #FFFFFF;
+$red: #ff0033;
+$red-light: #FFA9A9;
+$orange: #FAC91B;
+$alpha: 0.5;
+
+$font-weight-thin: 300;
+$font-weight-regular: 400; 
+$font-weight-bold: 700;
+
+.App{
+    display: flex;
+    flex-flow: column;
+    min-height: 100vh;
+}
+
+* {
+    scroll-behavior: smooth;
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+    ul, li, a{
+        padding: 0;
+        margin: 0;
+        text-decoration: none;
+        list-style-type: none;
+        display: inline;
+        display: flex;
+        gap: 50px;
+        transition: 0.1s ease-in-out;
+    }
+}
+
+h1 {
+font-size: $heading1;
+}
+
+h2 {
+font-size: $heading2;
+}
+
+h3 {
+font-size: $heading3;
+}
+
+h4 {
+font-size: $heading4;
+padding: 0;
+margin: 0;
+}
+
+h5 {
+font-size: $heading5;
+font-weight: $font-weight-thin;
+}
+
+.p1, p, label {
+font-size: $headingp;
+color: $white;
+}
+

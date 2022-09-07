@@ -1,0 +1,46 @@
+@import '../Assets/base.scss';
+
+.container{
+
+    .pageContent{
+        display: flex;
+        height: 100vh;
+        padding: 50px;
+
+        .left{
+            display: flex;
+            flex-direction: column;
+            width: 70%;
+
+            th{
+                column-span: 300px;
+                color: $blue;
+                font-weight: $font-weight-regular;
+                text-align: left;
+                margin-bottom: 100px;
+            }
+
+            td{
+ 
+                text-align: left;
+            }
+            .productImg{
+                padding: 20px;
+            }
+        }
+
+        .right{
+            width: 50%;
+        }
+
+        .heading{
+            color: $blue;
+        }
+
+        .subheading{
+            color: $blue;
+            font-style: italic;
+            margin-bottom: 5%;
+        }
+    }
+}

@@ -1,0 +1,36 @@
+@import '../../../Assets/base.scss';
+
+.container{
+    height: 20vh;
+    background-color: $aqua;
+    padding: 0px 50px 0px 50px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+
+    .socialContainer{
+        display: flex;
+        justify-content: space-evenly;
+        width: 25%;
+        
+        img:hover{
+            cursor: pointer;
+        }
+    }
+
+    .emailContainer{
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+
+        label{
+            font-size: $headingp;
+            font-weight: bold;
+        }
+
+
+    }
+}
+
+
