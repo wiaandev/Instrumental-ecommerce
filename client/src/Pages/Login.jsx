@@ -45,7 +45,7 @@ export default function Login() {
             setEmailWarn('Enter an email');
             setPasswordWarn('Enter a password');
         }else {
-            axios.post('http://localhost:5000/api/loginuser', payload)
+            axios.post('http://localhost:5001/api/loginuser', payload)
             .then(res => {
                 if(res.data.user){
                     sessionStorage.setItem('admin', res.data.findUser.admin)

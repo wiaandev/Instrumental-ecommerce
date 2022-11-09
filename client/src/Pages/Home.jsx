@@ -45,7 +45,7 @@ export default function Home(props) {
     }
 
     useEffect(() => {
-        axios.get('http://localhost:5000/api/allproducts')
+        axios.get('http://localhost:5001/api/allproducts')
         .then(res => {
             let productData = res.data;
             let renderProducts = productData.map(i => <Card key={i._id} productId={i._id} brand={i.brand} model={i.model} price={i.price} discountPrice={i.discountPrice} imgUrl={i.imgUrl[0]} qty={i.inStock}/>)

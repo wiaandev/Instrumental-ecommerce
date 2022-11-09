@@ -20,7 +20,7 @@ export default function ProductPage(props) {
      }, [])
 
      useEffect(() => {
-        axios.get('http://localhost:5000/api/allproducts')
+        axios.get('http://localhost:5001/api/allproducts')
         .then(res => {
             let productData = res.data;
             let renderProducts = productData.map(i => <ProductCard key={i._id} productId={i._id} brand={i.brand} model={i.model} price={i.price} discountPrice={i.discountPrice} img={i.imgUrl[0]} setRerender={props.setRerender}/>)

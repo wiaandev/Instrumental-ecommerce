@@ -88,7 +88,7 @@ export default function IndividualProduct(props) {
     });
 
     useEffect(() => {
-        axios.get('http://localhost:5000/api/oneproduct/' + productId)
+        axios.get('http://localhost:5001/api/oneproduct/' + productId)
         .then(res => {
             let data = res.data;
             setProductData({
