@@ -47,7 +47,7 @@ export default function NewProductModal(props) {
         }
 
 
-        axios.post('http://localhost:5000/api/addproduct', payload)
+        axios.post('http://localhost:5001/api/addproduct', payload)
         .then(res => {
             window.location.reload();
         })

@@ -5,7 +5,7 @@ import axios from 'axios';
 export default function OrderItem(props) {
 
     const dispatch = () => {
-      axios.delete('http://localhost:5000/api/deleteorder/' + props.id)
+      axios.delete('http://localhost:5001/api/deleteorder/' + props.id)
       .then( res => {
           window.location.reload();
       })

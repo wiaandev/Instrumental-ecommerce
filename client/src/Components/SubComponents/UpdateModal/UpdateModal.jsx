@@ -27,7 +27,7 @@ export default function UpdateModal(props) {
         let guitarId = props.id;
         let payload = editValues;
         console.log(payload);
-        axios.patch('http://localhost:5000/api/updateproduct/' + guitarId, payload)
+        axios.patch('http://localhost:5001/api/updateproduct/' + guitarId, payload)
         .then( res => {
             if(res){
                 console.log('user updated!');

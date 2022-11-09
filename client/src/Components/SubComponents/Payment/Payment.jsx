@@ -22,7 +22,7 @@ export default function Payment() {
       }
     }
 
-    axios.post('http://localhost:5000/api/addorder', payload)
+    axios.post('http://localhost:5001/api/addorder', payload)
     .then(res => {
     })
     .catch(err => console.log(err));
